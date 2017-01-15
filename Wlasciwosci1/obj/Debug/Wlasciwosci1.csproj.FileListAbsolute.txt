@@ -1,0 +1,2 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\Wlasciwosci1\Wlasciwosci1\bin\Debug\Wlasciwosci1.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\Wlasciwosci1\Wlasciwosci1\obj\Debug\Wlasciwosci1.csprojResolveAssemblyReference.cache
